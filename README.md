@@ -1,2 +1,12 @@
-# Analise-de-Vendas-e-Estoque
-Este projeto utiliza SQL para identificar produtos em ponto de ruptura e integra os dados ao Google Sheets para visualização de KPIs.
+# Controle de Estoque & Analytics 🚀
+Projeto prático de análise de dados integrando SQL e Visualização de Dados.
+
+## 🛠️ Tecnologias
+- **Banco de Dados:** MySQL
+- **Lógica:** SQL 
+- **Dashboard:** Google Sheets / Excel
+
+## 📊 Insights do Projeto
+- Identificação automática de ruptura de estoque.
+- Status de reposição visual (🚨 Alerta Crítico).
+- Filtros dinâmicos por categoria para tomada de decisão.

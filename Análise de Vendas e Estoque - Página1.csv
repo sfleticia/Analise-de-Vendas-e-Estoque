@@ -1,0 +1,40 @@
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+Produto,Categoria,Estoque_Disponivel,Alerta_Minimo,Total_Vendido,Status_Critico
+Refrigerante Lata,Bebidas,100,40,60,✅ OK
+Água Mineral,Bebidas,200,50,50,✅ OK
+Café Expresso,Bebidas,50,20,30,✅ OK
+Chiclete Box,Doces,5,10,30,🚨 REPOR IMEDIATAMENTE
+Salgado Assado,Alimentos,10,25,22,🚨 REPOR IMEDIATAMENTE
+Energético,Bebidas,45,15,15,✅ OK
+Biscoito Recheado,Doces,60,20,12,✅ OK
+Chocolate Barra,Doces,8,15,12,🚨 REPOR IMEDIATAMENTE
+Sanduíche Natural,Alimentos,25,10,8,✅ OK
+Pão de Queijo,Alimentos,15,30,5,🚨 REPOR IMEDIATAMENTE
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+127.0.0.1/projeto_vendas_estoque/produtos/,http://localhost/phpmyadmin/index.php?route=/database/sql&db=projeto_vendas_estoque,,,,
